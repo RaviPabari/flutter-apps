@@ -1,0 +1,8 @@
+showModalBottomSheet(
+        useRootNavigator: true,
+        context: context,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.only(
+              topLeft: Radius.circular(15.0), topRight: Radius.circular(15.0)),
+        ),
+//for shaping the border rounded
